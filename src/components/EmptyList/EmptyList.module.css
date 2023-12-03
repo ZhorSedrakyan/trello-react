@@ -1,0 +1,21 @@
+.container {
+	display: flex;
+	justify-content: center;
+	width: 100%;
+}
+
+.content {
+	width: 100%;
+	padding: 12px 8px 12px 8px;
+	background: #fffafa;
+	border-radius: 5px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	margin-bottom: 10px;
+}
+
+.emptyTitle {
+	font-size: 13px;
+	font-weight: 500;
+}
